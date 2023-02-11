@@ -17,7 +17,7 @@ function App() {
   title={noteItem.title}
   content={noteItem.content}
   />
-))}
+))};
        
       <Footer />
     </div>
